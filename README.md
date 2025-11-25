@@ -85,7 +85,7 @@ Run SQL files in Supabase SQL Editor:
 npm run dev
 ```
 
-เปิด http://localhost:3000
+ http://localhost:3000
 
 ---
 
@@ -110,7 +110,3 @@ toxic.conversation_summary → avg_toxicity_overall, breakup_risk_score, etc.
 ```
 
 ---
-
-## License
-
-MIT
